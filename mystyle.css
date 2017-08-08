@@ -1,12 +1,17 @@
 img{
-	width:256px;height:256px;
+	width:700px;height:700px;
+	padding:20px 20px 30px 20px;
 }
 
 .container1 {
 	background-color: white;
+	width: 400px;
+    margin: 0 auto;
+   	padding:10px 20px 10px 20px;
 }
 
 body {
 	background-color: powderblue;
 	text-align: center;
+	 background-image: url("me.jpg");
 }
